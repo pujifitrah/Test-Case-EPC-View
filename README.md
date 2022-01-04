@@ -1,2 +1,2 @@
-# Test-Case-EPC-View
-Automation Testing EPC View Development
+# Test-Case-Icore-Admin
+Automation Testing Icore Admin
